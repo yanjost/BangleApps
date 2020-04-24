@@ -671,7 +671,7 @@
     ]
   },
   {
-    "id": "lockdownclock",
+    "id": "ldclock",
     "name": "Lockdown Clock",
     "icon": "clock-lockdown.png",
     "version": "0.01",
